@@ -1,20 +1,18 @@
 
-### Example apps
-
-These are small example apps written in Elm to be run on the Lamdera platform.
-
-They are a basic starting point for folks who would prefer to learn by reading code.
+They small apps are a basic starting point for folks who would prefer to learn by reading code.
 
 Check out the [Lamdera quick overview](https://dashboard.lamdera.app/) for the basic concepts.
 
 
-#### [counter](counter) <small>(115 lines of code)</small>
+### Examples
 
-The canonical Elm counter app converted to a global multi-user counter – it's almost a bootstrap Lamdera project.
+#### – [counter](counter) <small>(115 lines of code)</small>
 
-#### [chat](chat) <small>(180 lines of code)</small>
+The classic [Elm counter example](https://elm-lang.org/examples/buttons) converted to a networked multi-user counter app.
 
-A simple single-room global chat server
+#### – [chat](chat) <small>(180 lines of code)</small>
+
+A simple single-room multi-user chat app including UI.
 
 
 ### Try it out
@@ -33,4 +31,4 @@ lamdera live
 
 #### [Lamdera Realworld](https://github.com/supermario/lamdera-realworld) <small>(2926 lines of code)</small>
 
-A full frontend/backend Realworld app implementation using Lamdera primitives, extended from the [frontend-only elm-spa Realworld](https://github.com/ryannhg/elm-spa-realworld) app.
+A full frontend+backend Realworld app implementation using Lamdera primitives, extended from the [frontend-only elm-spa Realworld](https://github.com/ryannhg/elm-spa-realworld) app.
