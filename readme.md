@@ -1,5 +1,5 @@
 
-They small apps are a basic starting point for folks who would prefer to learn by reading code.
+These small apps are a basic starting point for folks who would prefer to learn by reading code.
 
 Check out the [Lamdera quick overview](https://dashboard.lamdera.app/) for the basic concepts.
 
